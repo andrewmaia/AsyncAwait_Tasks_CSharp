@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwait_Tasks_CSharp", "AsyncAwait_Tasks_CSharp\AsyncAwait_Tasks_CSharp.csproj", "{BE856983-79B0-4E4F-9949-F78D5E140FAB}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsForm", "WindowsForm\WindowsForm.csproj", "{C45534BB-E39D-4747-A449-9D0B8660BE01}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{9A1295DB-0B8E-4CFC-8AB7-AFB47D2925A3}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BE856983-79B0-4E4F-9949-F78D5E140FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE856983-79B0-4E4F-9949-F78D5E140FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE856983-79B0-4E4F-9949-F78D5E140FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE856983-79B0-4E4F-9949-F78D5E140FAB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C45534BB-E39D-4747-A449-9D0B8660BE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C45534BB-E39D-4747-A449-9D0B8660BE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C45534BB-E39D-4747-A449-9D0B8660BE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
