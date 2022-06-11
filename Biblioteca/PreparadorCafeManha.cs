@@ -18,7 +18,6 @@ namespace Biblioteca
             GerarMensagem("coffee is ready");
 
 
-            //Neste ponto nao deveria aguardar esses tres caras finalizar
             Task<Egg> eggsTask = FryEggsAsync(2);
             Task<Bacon> baconTask = FryBaconAsync(3);
             Task<Toast> toastTask = MakeToastWithButterAndJamAsync(2);
